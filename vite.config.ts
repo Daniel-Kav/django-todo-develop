@@ -3,7 +3,7 @@ import { resolve } from 'path'
 
 export default defineConfig({
   root: 'src',
-  base: '/ts-web/',
+  base: '/django-todo-develop/',
   build: {
     outDir: '../dist',
     emptyOutDir: true,
